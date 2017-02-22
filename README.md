@@ -1,4 +1,5 @@
 # README
 
+Ruby on Rails
 
-[Upskill](http://upskillcourses.com) Software-as-a-Service Ruby on Rails App
+This app allows entrepreneurs, developers, and investors to find each other.
